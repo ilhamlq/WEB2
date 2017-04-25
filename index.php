@@ -1,3 +1,3 @@
 <?php	
-	echo "selasssmat dddatang";
+	echo "selasssmat datang";
 ?>
